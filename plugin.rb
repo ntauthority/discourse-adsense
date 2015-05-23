@@ -5,7 +5,7 @@
 # url: https://www.github.com/discoursehosting/discourse-adsense
 # Supported Discourse version: v1.2
 
-register_asset "javascripts/adsense.js"
+#register_asset "javascripts/adsense.js.es6"
 register_asset "javascripts/discourse/templates/discovery.hbs"
 register_asset "javascripts/discourse/templates/topic.hbs"
 
